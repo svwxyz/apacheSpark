@@ -8,4 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+# uv addition folders
 .python-version
+pyporject.toml
+
